@@ -27,3 +27,7 @@ The `xattr` line clears Gatekeeper quarantine (the app is unsigned).
 osacompile -o "/Applications/Tailscale Screen Share.app" screenshare.applescript
 swift make_icon.swift icon_1024.png   # then sips/iconutil to make applet.icns
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
